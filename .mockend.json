@@ -1,6 +1,7 @@
 {
   "Datatable": {
     "title": { "string": {} },
+    { "firstName": { "regexp": "[A-Z][a-z]{5,10}" } },
     "comments": {
       "hasMany": "Comment"
     }

@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Datatable": {
     "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"

@@ -1,8 +1,8 @@
-{
+
   "datatable": {
     "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"
     }
   }
-}
+
